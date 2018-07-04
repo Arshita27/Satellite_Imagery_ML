@@ -93,6 +93,6 @@ __Training the model and predictions__
 3. Run script:  predict.py
 
 __Perform predictions with the pre-trained model__
-1. Download the hdf5 object and model.JSON files from here
+1. Download the hdf5 object and model.JSON files from [link](https://drive.google.com/open?id=1f0xSwNM56ZSw7pe9gZuO3iXzInIsAXzk).
 2. Save it in cnn-model folder.
 3. Run script:  predict.py
